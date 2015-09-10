@@ -1,0 +1,254 @@
+dev:
+- add: (HEX) drukowanie i podgl¹d wydruku (10.01.2009)
+- fix: (HEX) dostêp do opcji programu (10.01.2009)
+- add: (HEX) wyszukiwanie i zamienianie (08.01.2009)
+- fix: poprawki dotycz¹ce manifestu XP w taskbarze (08.01.2009)
+- fix: obs³uga stylów XP (08.01.2009)
+# mod: usuniêcie mo¿liwoœci "skinowania" programu (08.01.2009)
+- mod: zmiana danych zwi¹zanych z numerem wersji (03.01.2009)
+- mod: otwarcie nowej wersji (2009.1.1) Mruczka (03.01.2009)
+
+1.0.0.146 (Final 2008) DEV:
+- fix: splash screen na œrodku ekranu, a nie pulpitu.
+Istotne na systemach z wieloma monitorami (03.10.2008)
+- add: obs³uga CTRL+SPACE i CTRL+ENTER (02.09.2008)
+- add: dodatkowe ikony w pliku exe (02.09.2008)
+- mod: znane b³êdy w oknie "Co nowego" (31.08.2008)
+- fix: [#4] poprawa obs³ugi stanu BOM (UTF) (31.08.2008)
+- add: opcja domykania nawiasów i cudzys³owów (31.08.2008)
+- mod: porz¹dki w oknie opcji (31.08.2008)
+- add: opcja uruchamiania tylko jednej kopii programu (31.08.2008)
+- add: multihighlight dla PHP (26.08.2008)
+- add: popup menu dla paska statusu (21.05.2008)
+- mod: kosmetyczne poprawki w podgl¹dzie HTML (21.05.2008)
+- fix: drobne poprawki w ca³oœci programu (21.05.2008)
+- mod: poprawki w marginesach wydruku (19.05.2008)
+- ADD: obs³uga Unicode UTF-8 (19.05.2008)
+- fix: poprawki zwi¹zane z plikiem ini (18.05.2008)
+- mod: domyœlny (systemowy) katalog TEMP (18.05.2008)
+- add: odwracanie tekstu (30.04.2008)
+- fix: rok w "copyright" w mrr.dll (30.04.2008)
+- mod: systemowa szerokoœæ pasków przewijania paneli HTML i CSS
+(11.03.2008)
+- fix: przet³umaczona stopka wydruku (11.03.2008)
+- mod: wymiana wiêkszoœci ikon programu (11.03.2008)
+- add: ikony wydruku na toolbarze (11.03.2008)
+- fix: [#1] AV przy zaznaczaniu nawiasów przy pewnych warunakch
+(28.11.2007)
+- fix: uzupe³nienie kodowania Morse'm o literkê 'Q' (28.11.2007)
+- MOD: znaczne przyspieszenie uruchamiania programu. Wszystkie okna
+programu tworzone dynamicznie (nareszcie!) (28.11.2007)
+- fix: b³¹d przy zapisie opcji, gdy zamkniety by³ panel eksplorera
+(27.11.2007)
+- MOD: przeniesienie ca³oœci konfiguracji do katalogu programu.
+Stan okien z rejestru przeszed³ do pliku XML (27.11.2007)
+- mod: uporz¹dkowanie wygl¹du programu przez usuniêcie czêœci
+nadmiarowych komponentów (zw³aszcza wizualnych) (27.11.2007)
+- add: zmiana liter na ma³e/WIELKIE (26.11.2007)
+- mod: przeniesienie 'whatsnew.txt' do katalogu 'doc'
+w celu uporz¹dkowania projektu (01.10.2007)
+- mod: SpTBXLib 1.83 (koniecznoœæ zmiany spowodowana problemami
+z unicodem w TBX 2.2) (01.10.2007)
+- fix: drobne poprawki dotycz¹ce œcie¿ek, gdy program by³ uruchamiany
+z parametrem (30.09.2007)
+
+Mruczek 2008 v.1.0 Alpha 1: (30.09.2007)
+- mod: zmiana roku w wersji programu na 2008 (30.09.2007)
+- mod: 'Co nowego' ³adowane z pliku tekstowego (30.09.2007)
+- mod: 'EdytorDev.opt' --> 'mruczek.edo' + porz¹dki w kodzie z tym
+zwi¹zane (30.09.2007)
+- add: wstêpna wersja pliku pomocy w formacie CHM (30.09.2007)
+- mod: zmiana nazwy pliku ini na 'mruczek.ini' + porz¹dki w kodzie z tym
+zwi¹zane (30.09.2007)
+- mod: nowa wersja mrr.dll (30.09.2007)
+- mod: about box wykrywa Vistê + aktualizacja numerów wersji
+(04.08.2007)
+- add: wstêpna obs³uga xHTML (tagi BR i IMG) (04.08.2007)
+- MOD: wznowienie projektu, nowe wersje kluczowych komponentów
+(04.08.2007)
+- mod: nowsza wersja THexEdit'a (12.06.2006)
+- fix: podgl¹d HTML ju¿ dzia³a (nie dzia³a³ po zmianie TBX) (03.01.2006)
+- add: szablon dla HTML 4.01 Transitional (03.01.2006)
+- mod: kolory taskbara (02.01.2006)
+- ZMIANA NAZWY: Mruczek 2006 (24.12.2005)
+- add: nowe wersje Toolbar2000 i TBX (02.12.2005)
+- fix: drobiazgi w zapisywaniu pozycji okien (21.11.2005)
+- fix: wykonywana jest ju¿ konwersja ISO-->Win (21.11.2005)
+- mod: szablony *TML w osobnym podmenu (21.11.2005)
+- add: szablon dla XHTML 1.0 Strict (21.11.2005)
+- add: zmiana JVCL na wersjê 3.0 (04.06.2005)
+- fix: b³¹d w filtrach w dialogu zapisu (08.03.2005)
+- add: kolorowanie sk³adni dla Fortrana (08.03.2005)
+
+Rev 2: (07.03.2005)
+- fix: (krytyczny) nie dodaje ju¿ dodatkowej linii na koñcu pliku
+(01.03.2005)
+- mod: poprawiony splash screen/about box (18.12.2004)
+- mod: korekty dostosowuj¹ce program do roku 2005 (18.12.2004)
+- add: popup menu w czêœci HEX (17.10.2004)
+- add: 'usuñ' w czêœci HEX (17.10.2004)
+- mod: zmiana identyfikacji systemu operacyjnego (28.07.2004)
+- mod: korekty kosmetyczne (01.05.2004)
+- mod: drobne korekty kosmetyczne (18.04.2004)
+
+Rev 1: (15.04.2004)
+- add: "kreator" 'div' i 'span' (11.04.2004)
+- mod: drobne zmiany w 'Szybkim Tagu' (10.04.2004)
+- fix: otwieranie nowego dokumentu przy uruchomieniu programu z
+parametrem (16.03.2004)
+- add: wizualizacja trybu zaznaczania (25.02.2004)
+- add: wybór katalogu tyczasowego dla programu (25.02.2004)
+- mod: usuniêcie '&nbsp;' z panelu HTML (25.02.2004)
+
+1.0 Final: (22.02.2004)
+- add: gesty myszki (back i fwd) dla podgl¹du HTML (22.02.2004)
+- fix: b³edne wyœwietlanie nazwy pliku w oknie ostrze¿enia przy
+nadpisywaniu (18.02.2004)
+- fix: wstawianie <img>: dodawanie pustego 'alt' (18.02.2004)
+- fix: wstawianie <img>: brak otwarcia cudzys³owu w 'width'
+(18.02.2004)
+- fix: wstawianie <img>: nie dodaje wpisu gdy obramownie równa siê
+zero (14.02.2004)
+- add: zamiana '\' na '/' przy wstawianiu œcie¿ki do grafiki (11.02.2004)
+- mod: zwiêkszenie zakresu liczb przy konwersji systemów liczbowych
+(28.01.2004)
+- add: zawijanie wierszy (13.01.2004)
+- fix: 'access violation' przy konwersji du¿ych liczb miêdzy systemami
+(09.01.2004)
+- fix: b³¹d przy uruchamianiu programu z b³êdnym katalogiem w
+'Eksplorerze' (26.12.2003)
+- fix: znikanie nazw pliku z taskbara przy zmianie rozmiaru przycisku
+taskbara (24.12.2003)
+
+RC 4:
+- add: drugi pasek (narzêdzia, kolorowanie) (19.12.2003)
+- add: zapisywanie (na ¿yczenie) stanu multizamiany (19.12.2003)
+- fix: drobna korekta wielkoœci stopki (dla niektórych drukarek)
+(17.12.2003)
+- add: nowe ikony na pasku: szybki tag, br, br + nowa linia, &_;
+(15.12.2003)
+- MOD: zmiana roku w numerze wersji i wycofanie podwersji "Premium"
+(14.12.2003)
+- mod: zmiana splash screen'a i okna "about" (14.12.2003)
+- mod: kolejna zmiana ikony programu (13.12.2003)
+- fix: wyœwietlanie popup-menu dla g³ównego okna (13.12.2003)
+- mod: zapis katalogu na panelu Eksplorer (02.12.2003)
+- fix: du¿o drobiazgów w kodzie (23.11.2003)
+- add: popup menu dla pasków narzêdzi (23.11.2003)
+- mod: drobne korekty wstawianych tekstów (23.11.2003)
+- add: kilka przycisków i ikon (23.11.2003)
+- add: podziêkowania i motto (23.11.2003)
+- fix: cudzys³owy przy wstawianiu obrazków (23.11.2003)
+- add: obs³uga GIF i PNG przy wstawianiu obrazków (23.11.2003)
+- add: zaznaczanie odpowiadaj¹cych nawiasów (22.11.2003)
+- mod: znaczniki html ma³ymi literami (zalecenie W3C dla xhtml)
+(19.11.2003)
+- add: poziome linie na panelu CSS (08.11.2003)
+- mod: warunkowy odczyt stanu paneli CSS i HTML (28.09.2003)
+- add: zapis stanu paneli CSS i HTML (28.09.2003)
+- mod: drzewiasty panel HTML (27.09.2003)
+
+RC 3:
+- add: drzewiasty panel CSS / CSS2 (25.09.2003)
+- add: "szybki wybór" dla ujmowania (25.09.2003)
+- add: panel PHP ze wstawianiem wieloliniowym (25.09.2003)
+- fix: drobne zmiany w toolbarze MDI (25.09.2003)
+- add: rozszerzenie mozliwoœci przy dodawaniu tabeli w HTML-u
+(22.09.2003)
+- add: dodanie paru drobiazgów do przegl¹darki HTML (22.09.2003)
+- add: dodanie opcji do serii zamian (22.09.2003)
+- fix: drobiazgi przy serii zamian (22.09.2003)
+- add: oznaczanie aktywnej linii tekstu (21.09.2003)
+- add: napisik pod oknami MDI (14.09.2003) (removed)
+- add: toolbar z list¹ okien MDI (13.09.2003)
+- fix: zmiana kilku ikon (19.08.2003)
+- fix: poprawki w niektórych oknach (02.08.2003)
+- fix: drobne zwiêksznie dolnego marginesu wydruku (dla pewnych
+drukarek) (02.08.2003)
+- fix: drobne poprawki kosmetyczne (02.08.2003)
+
+RC 2:
+- fix: drobne poprawki kosmetyczne (31.07.2003)
+- fix: rozszerzenia przy zapisie pliku + zabezpieczenie przed nadpisaniem
+(29.07.2003)
+- add: wstawianie grafiki do HTML bez pe³nej œcie¿ki pliku (27.07.2003)
+- fix: brak zapisu stanu rynny itp. (27.07.2003)
+- fix: z³e wyswietlanie stanu ISO/Win/Unix (27.07.2003)
+- add: dodawanie rozszerzenia do pliku przy zapisie (niepewne)
+(27.07.2003)
+- add: filtr do dialogów kompresji (27.07.2003)
+- mod: zmiana ikony programu (26.07.2003)
+- fix: umo¿liwienie edycji przy multi-zamianie (26.07.2003)
+- fix: kilka poprawek kosmetycznych (23.07.2003)
+- add: zapis wszystkich opcji edytora (23.07.2003)
+- fix: brak mo¿liwoœci wyjœcia, jeœli nie mo¿na by³o pisaæ do pliku INI
+(15.07.2003)
+- add: obs³uga prawego przycisku myszki (12.07.2003)
+- mod: utworzenie 'actions' dla kilku funkcji (12.07.2003)
+- mod: wyrzucenie pewnych zasobów do dll (11.07.2003)
+- add: splash screen (11.07.2003)
+
+RC 1:
+- add: Hint panel (7.07.2003)
+- add: ustawienia edytora (6.07.2003)
+- add: export do TeX (6.07.2003)
+- fix: optymalizacja 'auto-create forms' (12.06.2003)
+- fix: drobne zmiany w menu (12.06.2003)
+
+Beta-stage:
+- implementacja propzycji uzupe³nienia (bez ¿adnych danych) (beta 1)
+- implementacja auto uzupe³niania (dane HTML) (beta 1)
+- ujmowanie tekstu (beta 1)
+- seria zamian (beta 1)
+- zapis/odczyt plików kompresowanych (beta 1)
+- zamiana liczby na zapis s³owny (beta 1)
+- konwersja systemów liczbowych (2/8/10/16) (beta 1)
+
+Alpha-stage
+- ustawienia i podgl¹d wydruku (wspania³e!!!)
+- kolorowanie sk³adni dla C, PHP, HTML, TeX i Generic
+- automagiczne wykrywanie poprzedniego
+- numerowanie wierszy
+- kodowanie/dekodowanie ROT13
+- kodowanie/dekodowanie Morse'a
+- szyfrowanie XOR intem (dwustronne, niepewne)
+- szyfrowanie XOR has³em (jednostronne)
+- zamiana liczb rzymskich na arabskie i odwrotnie
+- export do HTML i RTF (prawdziwy)
+- podgl¹d plików HTML w wewnêtrznej przegl¹darce
+- pe³ne tam-i-powrotne wyszukiwanie i zamiana tekstu
+- aktualna pozycja kursora na pasku stanu
+- modernizacja opcji programu
+- tryb insert/overwrite
+- wzajemne ustawianie, minimalizacja okien MDI
+- wstawianie instrukcji HTML z menu
+- wstawianie koloru w formacie HTML
+- edytor tabel HTML (wymiary i border)
+- wstawianie odnoœnika w HTML
+- wstawianie grafiki w HTML
+- ma³y toolbar z boku okna MDI
+- ustawienia tematów TBX
+- multihighlighting
+- edycja podœwietlania sk³adni
+- edytor formularzy HTML
+- zapis w formacie Windows/UNIX
+- konwersje Win-1250 -> ISO 8859-2
+- wstawianie szablonu HTML i META dla ISO
+- zaznaczanie tagu HTML
+- listing atrybutów tag-u HTML (TYMCZASOWE!!!)
+- edycja znacznika <BODY ...>
+- zapis i przezentacja stanu formatu zapisu (ISO/Win, Dos/Unix)
+- wyœwietlanie pliku w postaci szesnastkowej (COOL!!!)
+- przeniesienie stanu formatu zapisu z paska stanu na boczny pasek
+narzêdzi
+- kolorowanie sk³adni dla Pascal'a (nareszcie!!!)
+- kolorowanie sk³adni dla Javy
+- tworzenie pliku heksadecymalnego
+- zmiana rozmiaru czcionki (bez zapisu!!!)
+- panel 'Eksplorer' (That was hard!!!)
+- panel 'HTML' (Je¿eli tamto by³o trudne, to TO by³o niewykonalne!)
+
+Prerelease-stage:
+- pocz¹tek projektu
+- program powsta³ na bazie Edytora RTF 2003 4.0 beta 1
+- wywalenie wszystkiego do RTF

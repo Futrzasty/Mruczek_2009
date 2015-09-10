@@ -1,0 +1,142 @@
+!--
+=<!-- | -->
+a
+=<a href="|"></a>
+a2
+=<a target="_blank" href="|"></a>
+applet
+=<applet code="|" width="" height="">
+=</applet>
+asp
+=<%
+=     |
+=%>
+b
+=<b>|</b>
+blockquote
+=<blockquote>|</blockquote>
+br
+=<br>|
+bullet
+=<ul>
+=	<li>|
+=	<li>
+=</ul>
+center
+=<center>|</center>
+checkbox
+=<input type="checkbox" name="|">
+dl
+=<dl>
+=	<dt>|
+=	<dd>
+=</dl>
+font
+=<font size="" color="">|</font>
+form
+=<form method="POST" enctype="text/plain" action="mailto:email@serwer.pl">
+=|
+=</form>
+formimage
+=<input type="image" src="|">
+frame
+=<frameset rows="|," cols=",">
+=	<frame src="" name="">
+=	<frame src="" name="">
+=</frameset>
+h1
+=<h1>|</h1>
+h2
+=<h2>|</h2>
+h3
+=<h3>|</h3>
+h4
+=<h4>|</h4>
+h5
+=<h5>|</h5>
+h6
+=<h6>|</h6>
+hidden
+=<input type="hidden">
+hr
+=<hr>
+html
+=<html>
+= <head>
+= <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+= <meta name="description" content="">
+= <meta name="keywords" content="">
+= <meta name="history" content="">
+= <meta name="author" content="">
+= <title>|</title>
+=</head>
+=<body>
+=
+=</body>
+=</html>
+i
+=<i>|</i>
+if
+=if(|) {}
+ifelse
+=if(|) {} else {}
+img
+=<img src="|" border=0 alt="">
+map
+=<map name="|">
+=	<area shape="" href="" coords="" alt="">
+=</map>
+nb
+=&nbsp;
+noscript
+=<noscript>|</noscript>
+number
+=<ol>
+=	<li>|
+=	<li>
+=</ol>
+p
+=<p>|</p>
+password
+=<input type="password">
+php
+=<?php
+=|
+=?>
+pre
+=<pre>|</pre>
+radio
+=<input type="radio" name="|">
+reset
+=<input type="reset">
+script
+=<script type="text/javascript" language="JavaScript">
+=<!--
+=|
+=//-->
+=</script>
+select
+=<select name="">|</select>
+style
+=<style>
+=|
+=</style>
+submit
+=<input type="submit">
+table
+=<table>
+=     |
+=</table>
+=
+td
+=<td>|</td>
+text
+=<input type="text" name="|">
+textarea
+=<textarea name="" rows="" cols="">|</textarea>
+tr
+=<tr>
+=     |
+=</tr>
+u
+=<u>|</u>

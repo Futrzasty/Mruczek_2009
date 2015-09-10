@@ -1,0 +1,33 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=mruczek.chm
+Contents file=mruczek.hhc
+Default Window=Main
+Default topic=wstep.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x415 Polski
+
+[WINDOWS]
+Main="Mruczek 2008","mruczek.hhc",,"wstep.htm","wstep.htm",,,,,0x43520,300,0x304e,,,,,,,,0
+
+
+[FILES]
+wstep.htm
+about.htm
+opcje.htm
+opcje-sub.htm
+whatsnew.txt
+knownbugs.txt
+
+[ALIAS]
+1=wstep.htm
+2=about.htm
+20=opcje.htm
+21=opcje-sub.htm
+
+[MAP]
+#include mruczek.h
+
+[INFOTYPES]
+

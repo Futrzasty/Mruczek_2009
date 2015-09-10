@@ -1,0 +1,4 @@
+Splash BITMAP "..\Grafika\Splash\splash.bmp"
+HTML401Strict HTML ".\Res\html401strict.html"
+XHTML10Strict HTML ".\Res\xhtml10strict.html"
+HTML401Trans HTML ".\Res\html401trans.html"

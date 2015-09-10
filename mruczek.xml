@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Configuration>
+  <fMDI>
+    <FormVersion>0</FormVersion>
+    <ShowCmd>3</ShowCmd>
+    <Flags>2</Flags>
+    <PixelsPerInch>96</PixelsPerInch>
+    <MinMaxPos_1280x1024_>0,802,-4,-30</MinMaxPos_1280x1024_>
+    <MinMaxPos>0,802,-4,-30</MinMaxPos>
+    <NormPos_1280x1024_>0,0,234,240</NormPos_1280x1024_>
+    <NormPos>0,0,234,240</NormPos>
+    <ActiveControl>cEdit</ActiveControl>
+  </fMDI>
+  <fMain>
+    <FormVersion>0</FormVersion>
+    <ShowCmd>3</ShowCmd>
+    <Flags>2</Flags>
+    <PixelsPerInch>96</PixelsPerInch>
+    <MinMaxPos_1280x1024_>-1,-1,-1,-1</MinMaxPos_1280x1024_>
+    <MinMaxPos>-1,-1,-1,-1</MinMaxPos>
+    <NormPos_1280x1024_>284,345,980,839</NormPos_1280x1024_>
+    <NormPos>284,345,980,839</NormPos>
+  </fMain>
+  <fMDIHex>
+    <FormVersion>0</FormVersion>
+    <ShowCmd>3</ShowCmd>
+    <Flags>2</Flags>
+    <PixelsPerInch>96</PixelsPerInch>
+    <MinMaxPos_1280x1024_>-1,-1,-4,-30</MinMaxPos_1280x1024_>
+    <MinMaxPos>-1,-1,-4,-30</MinMaxPos>
+    <NormPos_1280x1024_>22,29,720,607</NormPos_1280x1024_>
+    <NormPos>22,29,720,607</NormPos>
+    <ActiveControl>cEditHex</ActiveControl>
+  </fMDIHex>
+</Configuration>

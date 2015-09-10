@@ -1,0 +1,8 @@
+[#2] Nie do koñca dzia³a autouzupe³nianie kodu (Shift+Space)
+[#3] Odwracanie tekstu dzia³a poprawnie tylko dla tekstu w jednej linii
+[#5] Ignorowanie ustawienia znaków koñca linii (Win/UNIX) w UTF
+[#6] Nie do koñca poprawna blokada jednego uruchomienia
+     Nie otwiera siê nowe okno, gdy jako drugi uruchamia siê program bez parametru
+[#7] Brak zapisu stanu BOM
+[#8] Problemy z odtwarzaniem pozycji okna edytora gdy program zamkniêto w trybie HEX
+[#9] Nie w pe³ni przet³umaczone okno wklejania w edytorze HEX
